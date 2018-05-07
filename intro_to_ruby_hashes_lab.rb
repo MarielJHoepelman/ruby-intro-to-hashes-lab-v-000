@@ -30,7 +30,9 @@ def monopoly_with_third_tier
 				:four_pieces_owned => 200,
 			},
 
-		:names => {}, #:rent_in_dollars => {}
+		:names => {
+			:reading_railroad => {}
+		}, #:rent_in_dollars => {}
 		}
 	}
 end
